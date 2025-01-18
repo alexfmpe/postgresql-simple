@@ -119,7 +119,7 @@ test-suite inspection
   main-is:          Inspection.hs
   build-depends:
       base
-    , inspection-testing  >=0.4.1.1 && <0.6
+    , inspection-testing  >=0.4.1.1 && <0.7
     , postgresql-libpq
     , postgresql-simple
     , tasty
